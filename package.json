@@ -1,7 +1,8 @@
 {
   "name": "position",
-  "description": "A jquery plugin to position an element relative to the other element",
   "version": "0.1.0",
+  "description": "A jquery plugin to position an element relative to the other element",
+  "main": "position.js",
   "author": "Alex Chao",
   "license": "MIT",
   "repository": {
