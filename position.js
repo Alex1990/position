@@ -111,7 +111,7 @@
 
       return this;
     } else {
-      originalPosition.call(this);
+      return originalPosition.call(this);
     }
   };
 
